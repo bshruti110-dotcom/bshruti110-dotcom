@@ -8,11 +8,10 @@
 
 ### 🚀 About Me
 
-- 🎓 B.Tech Computer Engineering @ **GB Pant University, Pantnagar** (CGPA: 7.6)
+- 🎓 B.Tech Computer Engineering @ **GB Pant University, Pantnagar** 
 - 🔭 Currently building a **Deepfake Video Detection System** using TensorFlow & CNN
 - ☁️ Experienced with **AWS Cloud** (EC2, S3, RDS, Load Balancer)
-- 🌱 Learning **JavaScript & React.js** for full-stack development
-- 💡 Passionate about **AI/ML, Data Analytics, and Cloud Computing**
+- 💡 Passionate about **AI/ML and Cloud Computing**
 - 📧 Reach me: **bshruti110@gmail.com**
 
 ---
